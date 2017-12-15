@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.kuis_1067.Kuis1067ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.729 sec - in com.example.kuis_1067.Kuis1067ApplicationTests
